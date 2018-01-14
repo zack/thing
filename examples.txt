@@ -1,0 +1,96 @@
+elements(access) = 290
+index(access) = 1
+midpoint(access) = 4.684
+news(access) = 2.236
+scrabble(access) = 10
+typewriter(access) = 1
+units(access) = 6
+
+elements(dvorak) = 138
+index(dvorak) = 233
+midpoint(dvorak) = 2.633
+news(dvorak) = 0.0
+scrabble(dvorak) = 14
+typewriter(dvorak) = 2
+units(dvorak) = 6
+
+elements(elephant) = 23
+index(elephant) = 4879
+midpoint(elephant) = 4.313
+news(elephant) = 2.236
+scrabble(elephant) = 13
+typewriter(elephant) = 4
+units(elephant) = 8
+
+elements(ghosty) = 207
+index(ghosty) = 1
+midpoint(ghosty) = 3.895
+news(ghosty) = 1.0
+scrabble(ghosty) = 13
+typewriter(ghosty) = 3
+units(ghosty) = 6
+
+elements(new) = 91
+index(new) = 3
+midpoint(new) = 2.087
+news(new) = 1.0
+scrabble(new) = 6
+typewriter(new) = 2
+units(new) = 3
+
+elements(news) = 107
+index(news) = 8
+midpoint(news) = 2.5
+news(news) = 0.0
+scrabble(news) = 7
+typewriter(news) = 2
+units(news) = 4
+
+elements(qwerty) = 181
+index(qwerty) = 193
+midpoint(qwerty) = 3.5
+news(qwerty) = 0.0
+scrabble(qwerty) = 21
+typewriter(qwerty) = 6
+units(qwerty) = 6
+
+elements(racecar) = 285
+index(racecar) = 477
+midpoint(racecar) = 3.5
+news(racecar) = 1.0
+scrabble(racecar) = 11
+typewriter(racecar) = 3
+units(racecar) = 7
+
+elements(see) = 50
+index(see) = 3
+midpoint(see) = 0.763
+news(see) = 2.236
+scrabble(see) = 3
+typewriter(see) = 2
+units(see) = 3
+
+elements(sew) = 124
+index(sew) = 3
+midpoint(sew) = 1.9
+news(sew) = 1.0
+scrabble(sew) = 6
+typewriter(sew) = 2
+units(sew) = 3
+
+elements(typewriter) = 301
+index(typewriter) = 356915
+midpoint(typewriter) = 4.587
+news(typewriter) = 1.0
+scrabble(typewriter) = 18
+typewriter(typewriter) = 10
+units(typewriter) = 10
+
+elements(weed) = 74
+index(weed) = 12
+midpoint(weed) = 0.804
+news(weed) = 1.0
+scrabble(weed) = 8
+typewriter(weed) = 3
+units(weed) = 4
+

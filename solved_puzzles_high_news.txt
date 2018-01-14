@@ -1,0 +1,9 @@
+puzzle1527.txt
+puzzle1626.txt
+puzzle1759.txt
+puzzle3018.txt
+puzzle4056.txt
+puzzle4170.txt
+puzzle4435.txt
+puzzle6326.txt
+puzzle7723.txt
